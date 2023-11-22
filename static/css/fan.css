@@ -1,0 +1,13 @@
+h3
+{
+    color: black;
+    background-color:lightblue;
+    inline-size: 255px;
+}
+
+h4
+{
+    color:darkblue;
+    background-color: yellow;
+    inline-size: 130px
+}
